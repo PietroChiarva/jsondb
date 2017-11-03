@@ -1,0 +1,39 @@
+{
+	"cars": [
+	 {
+		"ID" : 1,
+		"Name" : "Ford",
+		"GPL" : false,
+		"Models" : ["Focus","Fiesta","Mustang"],
+		"Turbo": null
+	},
+	{
+		"ID" : 2,
+		"Name" : "BMW",
+		"GPL" : false,
+		"Models" : ["320","x3","x5"],
+		"Turbo": null
+	},
+	{
+		"ID" : 3,
+		"Name" : "Fiat",
+		"GPL" : true,
+		"Models" : ["500","Panda","600"],
+		"Turbo": null
+	},
+	{
+		"ID" : 4,
+		"Name" : "Audi",
+		"GPL" : false,
+		"Models" : ["a1","a4","a5"],
+		"Turbo": null
+	},
+	{
+		"ID" : 5,
+		"Name" : "Hyundai",
+		"GPL" : true,
+		"Models" : ["i10","i20","i30"],
+		"Turbo": null
+	}
+	]
+}
